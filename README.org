@@ -1,0 +1,10 @@
+* cl-libiio
+
+Common Lisp bindings for libiio.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/mihaiolteanu/cl-libiio.git   |
+| commit  | ae937d3  |
+| systems | cl-libiio |
+|---------+-------------------------------------------|
+
